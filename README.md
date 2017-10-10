@@ -39,3 +39,4 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Backlog: Code Things I Want to Do/Play With
 1. Build a robot that takes over the world
+2. Get to the choppah!
