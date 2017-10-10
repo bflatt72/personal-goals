@@ -13,7 +13,7 @@
 
 ### Flexbox
 -[ ] [What the Flexbox](www.flexbox.io)   
--[x] [Understanding Flexbox(https://github.com/ohansemmanuel/Understanding-Flexbox)   
+-[x] [Understanding Flexbox](https://github.com/ohansemmanuel/Understanding-Flexbox)   
 -[x] [The Net Ninja](https://www.youtube.com/watch?v=Y8zMYaD1bz0&list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG)
 
 ### CSS Grid Layout
