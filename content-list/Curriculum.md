@@ -35,5 +35,5 @@ from this guide
 -[ ] [CS50 at Harvard](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 
-
-
+### Linux
+-[ ] [Linux Foundation training on Edx](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x+1T2017/course/)
