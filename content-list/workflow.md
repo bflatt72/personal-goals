@@ -34,3 +34,4 @@ Review and modify goals
 
 1. Study how to make my workflow more efficient. Automate as much as possible. 
 2. Get my email under control. Establish efficiency. Unsubscribe newsletters I don't read. 
+3. Find open source projects to contribute to on Github
