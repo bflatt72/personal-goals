@@ -33,3 +33,4 @@ Review and modify goals
 ### Long term items
 
 1. Study how to make my workflow more efficient. Automate as much as possible. 
+2. Get my email under control. Establish efficiency. Unsubscribe newsletters I don't read. 
