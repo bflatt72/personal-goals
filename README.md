@@ -22,9 +22,9 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll Do This Week:
 - [x] #100DaysofCode errday
 - [ ] Continue Curriculum list
-- [ ] Contribute one pull request to hacktoberfest
+- [x] Contribute one pull request to hacktoberfest
 - [ ] Study for Stats exam 2
-- [ ] Complete JavaScript week in Intro to Programming
+- [x] Complete JavaScript week in Intro to Programming
 - [ ] Watch 2 videos from my content list
 - [ ] Write a blog post
 - [ ] Update resources and Curriculum files
