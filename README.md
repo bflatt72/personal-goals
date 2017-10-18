@@ -26,7 +26,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] Study for Stats exam 2
 - [x] Complete JavaScript week in Intro to Programming
 - [ ] Watch 2 videos from my content list
-- [x ] Write a blog post
+- [x] Write a blog post
 - [ ] Update resources and Curriculum files
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide)
 
