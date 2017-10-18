@@ -15,7 +15,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 6. Be kind
 7. Un-wind
 
-# October 9, 2017
+# October 16, 2017
 
 ### This Week's Goal: Be Awesome.
 
@@ -23,15 +23,15 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [x] #100DaysofCode errday
 - [ ] Continue Curriculum list
 - [x] Contribute one pull request to hacktoberfest
-- [ ] Study for Stats exam 2
+- [x] Study for Stats exam 2
 - [x] Complete JavaScript week in Intro to Programming
 - [ ] Watch 2 videos from my content list
-- [ ] Write a blog post
+- [x ] Write a blog post
 - [ ] Update resources and Curriculum files
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide)
 
 ### Things I'll Do This Month: October 2017
-- [ ] Read a book
+- [ ] Read 2 books
 - [ ] Hacktoberfest
 - [x] Continue working on FreeCodeCamp 
 - [ ] Continue working on The Odin Project

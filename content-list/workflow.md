@@ -12,6 +12,7 @@
 5. Log in 100DaysofCode repo
 6. Update 100DaysofCode to Twitter
 7. Read 50 pages of a book
+8. Write for 15 minutes a day. 
 
 
 
